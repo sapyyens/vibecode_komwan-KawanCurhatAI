@@ -1,0 +1,6 @@
+{
+  "name": "Kawan Curhat Portal",
+  "description": "Psychologist & Admin Portal for the Kawan Curhat psychological support application. Allows licensed psychologists to manage patient directories, configure AI parameters, and seamlessly take over escalated crisis chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
